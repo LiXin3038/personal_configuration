@@ -1,9 +1,11 @@
 {
   "version": "1.0",
+  "createdAt": "2024-08-17T10:14:22.212Z",
   "rules": [
     {
-      "origin": "*.gtjadev.net/login.html",
-      "target": "*.gtjadev.net/logindev.html",
+      "description": "国泰君安测试环境登录",
+      "origin": "gtjadev.net/login.html",
+      "target": "gtjadev.net/logindev.html",
       "enable": true
     },
     {
