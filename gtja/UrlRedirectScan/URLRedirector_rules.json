@@ -7,6 +7,12 @@
       "origin": "gtjadev.net/login.html",
       "target": "gtjadev.net/logindev.html",
       "enable": true
+    },
+    {
+      "description": "百度",
+      "origin": "www.baidu.com",
+      "target": "map.baidu.com",
+      "enable": true
     }
   ]
 }
