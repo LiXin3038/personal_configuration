@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "createdAt": "2024-08-17T10:14:22.212Z",
+  "rules": [
+    {
+      "description": "github",
+      "origin": "github.com",
+      "target": "dgithub.xyz",
+      "enable": true
+    }
+  ]
+}
